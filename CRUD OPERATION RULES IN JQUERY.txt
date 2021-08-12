@@ -1,0 +1,5 @@
+CRUD OPERATION RULES IN JQUERY
+
+1. If One attribute is not null then make sure text field for that one attribute.
+2. name="value" value is $_POST['value'].
+3. <input type="hidden" name="snid" id="snid" > this id need for update section
